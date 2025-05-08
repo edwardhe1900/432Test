@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-05-07T23:28:34.033Z",
+  "inputAudioBuffer": {
+    "sampleRate": 44100,
+    "channels": 1,
+    "length": 158492,
+    "duration": 3.593922902494331
+  },
+  "outputMp3": {
+    "size": 87770,
+    "path": "/Users/edhenry/Downloads/EE547_Final_Project-main windsurf/debug-output/debug-processed-output.mp3"
+  }
+}
